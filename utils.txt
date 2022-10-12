@@ -9,3 +9,4 @@ git remote test
 git pull test
 
 git local
+git remote
