@@ -7,3 +7,5 @@
 git remote test
 
 git pull test
+
+git remote
